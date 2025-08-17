@@ -1,1 +1,1 @@
-python3 src/main.py "/neuteris.github.io/"
+python3 src/main.py "/sitegenerator/"
