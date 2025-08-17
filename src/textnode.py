@@ -2,7 +2,7 @@
 from enum import Enum
 
 class TextType(Enum):
-    PLAIN = "plain"       # plain text
+    TEXT = "plain"       # plain text
     BOLD = "bold"         # **Bold text**
     ITALIC = "italic"     # _Italic text_
     CODE = "code"         # `Code text`
