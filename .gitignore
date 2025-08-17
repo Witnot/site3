@@ -22,3 +22,4 @@ Thumbs.db
 *.tmp
 .git-credentials
 .env
+.git-credentials
